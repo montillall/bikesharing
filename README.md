@@ -5,7 +5,9 @@
 The objective of the project is to analyze public Citi Bike data from NYC in order to put together a presentation for potential investors to build a similar bussines in Des Moines, Iowa. The analysis is intended to address the following quetions:
 
 Who are and what is the proporsion of bike users?
+
 What part of the city are the bikes mostly used?
+
 What are the peak hours and lowest hours for bike trips?
 
 

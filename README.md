@@ -2,7 +2,7 @@
 
 ## Overview 
 
-The objective of the project is to analyze public Citi Bike data from NYC in order to put together a presentation to investors to potentially build a similar bussines in Des Moines. The analysis is intended to address the following quetions
+The objective of the project is to analyze public Citi Bike data from NYC in order to put together a presentation for investors to potentially build a similar bussines in Des Moines. The analysis is intended to address the following quetions
 
 
 using Tableau to visualize bike-sharing data

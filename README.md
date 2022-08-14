@@ -14,9 +14,7 @@ What is the trip duration per riders and genders?
 
 Number of bike trips for type of user and gender for each day of the week?
 
-Tableau was used to visualize bike-sharing data and addressed above questions. The link to the Tableau story is:
-
-[Here](https://public.tableau.com/authoring/Citybike_tripdata/UserTripsbyGenderbyWeekday/NYC%20Citibike%20Analysis#1)
+Tableau was used to visualize bike-sharing data and addressed above questions. The link to the Tableau story is:[Here](https://public.tableau.com/authoring/Citybike_tripdata/UserTripsbyGenderbyWeekday/NYC%20Citibike%20Analysis#1)
 
 
 ---

@@ -20,8 +20,8 @@ Tableau was used to visualize bike-sharing data and addressed above questions. T
 ---
 ## Results
 
-Image below shows the HTML page. Filters are located on the bottom left of the page.
-![](static/images/HTML_Page.png)
+Image below shows the demographic of bike users. 
+![](Res/CustmerRideCount.png)
 
 
 ### Perform the search 

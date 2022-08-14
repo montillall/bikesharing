@@ -4,16 +4,20 @@
 
 The objective of the project is to analyze public Citi Bike data from NYC in order to put together a presentation for potential investors to build a similar bussines in Des Moines, Iowa. The analysis is intended to address the following quetions:
 
-Who are and what is the proporsion of bike users?
+Who and what is the proporsion of bike users?
 
 What part of the city are the bikes mostly used?
 
 What are the peak hours and lowest hours for bike trips?
 
+What is the trip duration per riders and genders?
 
+Number of bike trips for type of user and gender for each day of the week?
 
+Tableau was used to visualize bike-sharing data and addressed above questions. The link to the Tableau story is:
 
-using Tableau to visualize bike-sharing data
+[Here](https://public.tableau.com/authoring/Citybike_tripdata/UserTripsbyGenderbyWeekday/NYC%20Citibike%20Analysis#1)
+
 
 ---
 ## Results

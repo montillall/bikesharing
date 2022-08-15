@@ -29,6 +29,8 @@ The map shows the location in the city where bikes are mostly used. It is notice
 The bar chart shows the peak hours and lowest hours for bike trips. Rush hours is where bikes have the highest usage while hours between 2:00am and 5:00am bikes have the lowest usage  
 ![](Res/AugPeakHours_.png)
 
+The trip duration by overall user is less than an hour, where the highest bike usage lasts between 5 and 15 minutes
+![](Res/TripDurationByUser.png)
 
 ---
 ## Summary

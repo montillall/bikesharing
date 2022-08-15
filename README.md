@@ -38,7 +38,8 @@ The heat map shows the number of trips by weekday per hour. It can be seen that 
 ![](Res/NumberTripsWeekdayperHour.png)
 
 The trend of highest number of trips is driven by male users
-![](Res/NumberTripsBy GenderWeekdayperHour.png)
+
+![](Res/NumberTripsByGenderWeekdayperHour.png)
 
 
 ---

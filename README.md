@@ -42,6 +42,8 @@ The trend of highest number of trips is driven by male users
 ![](Res/NumberTripsByGenderWeekdayperHour.png)
 
 
+
+
 ---
 ## Summary
 

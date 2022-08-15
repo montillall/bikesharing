@@ -49,7 +49,7 @@ The breakdown of number of trips by user type and gender by weekday, confirms th
 ---
 ## Summary
 
-One drawback of this webpage is that the user would need to refer to the data.js file in order to know all the criterias that can be input in this webpage. In order to fix this, an alternative would be to incorporate the data file into the webpage on a form of a list dropdown menu or a link to the data file so the user can aquickly visualize the criterias that can be used  
+The overall analysis demonstrated that the citibike program is very popular in the metropolitan part of the city, making it very convenient where parking spaces could be an issue as well as traffic. The program subscribers are the highest users of the program as well as male users compare to female    
 
 
 

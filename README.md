@@ -27,7 +27,7 @@ The map shows the location in the city where bikes are mostly used. It is notice
 ![](Res/TopStartLocation.png)
 
 The bar chart shows the peak hours and lowest hours for bike trips. Rush hours is where bikes have the highest usage while hours between  
-![](Res/AugPeakHours.png)
+![](Res/AugPeakHours_.png)
 
 
 ---

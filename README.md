@@ -34,6 +34,9 @@ The trip duration by overall user is less than an hour, where the highest bike u
 
 ![](Res/TripDurationByGender.png)
 
+The heat map shows the number of trips by weekday per hour. It can be seen that the highest number of trips during weekdays occur in rush hours while on weekends occur mostly on saturdays and between 9:00am and 8:00pm
+![](Res/NumberTripsWeekdayperHour.png)
+
 
 ---
 ## Summary

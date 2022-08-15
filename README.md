@@ -2,7 +2,7 @@
 
 ## Overview 
 
-The objective of the project is to analyze public Citi Bike data from NYC in order to put together a presentation for potential investors to build a similar bussines in Des Moines, Iowa. The analysis is intended to address the following quetions:
+The objective of the project is to analyze public Citi Bike data from NYC in order to put together a presentation for potential investors to build a similar program in Des Moines, Iowa. The analysis is intended to address the following quetions:
 
 Who and what is the proporsion of bike users?
 
@@ -20,14 +20,11 @@ Tableau was used to visualize bike-sharing data and addressed above questions. T
 ---
 ## Results
 
-Image below shows the demographic of bike users. 
+Image below shows the demographic of bike users. From the total users, about 81% are subscribers representing a consistent source of income for the program. The gender breakdown shows that 65% are male users, 25% are female users and the rest unkown.
 ![](Res/CustmerRideCount.png)
 
-
-### Perform the search 
-
-To perform the search, the user should fill in the different criterias correspondent to Date, City, State, Country and Shape and press enter each time, the user will be able to see that the table narrowing down by each criteria. As an example, let us search on the following criterias: Date= 1/1/2010, City= la mesa, State= ca, Country= us and Shape= triangle  
-![](static/images/Search_example.png)
+The map shows the location in the city where bikes are mostly used. It is noticed that the center of the city is where the concentration of bikes rides is located, given by the darker and bigger size of the bubbles, whereas the smaller and lighter color of the bubbles are located in the boundaries of the city   
+![](Res/TopStartLocation.png)
 
 The example above shows that there's one sighting correspondent to the entire search criteria. In order to reset the page, the user should click on the UFO Sightings located on the top left of the page.
 ![](static/images/Reset_Button_.png)

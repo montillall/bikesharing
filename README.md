@@ -26,7 +26,7 @@ Image below shows the demographic of bike users. From the total users, about 81%
 The map shows the location in the city where bikes are mostly used. It is noticed that the center of the city is where the concentration of bikes rides is located, given by the darker and bigger size of the bubbles, whereas the smaller and lighter color of the bubbles are located in the boundaries of the city   
 ![](Res/TopStartLocation.png)
 
-The bar chart shows the peak hours and lowest hours for bike trips. Rush hours is where bikes have the highest usage while hours between  
+The bar chart shows the peak hours and lowest hours for bike trips. Rush hours is where bikes have the highest usage while hours between 2:00am and 5:00am bikes have the lowest usage  
 ![](Res/AugPeakHours_.png)
 
 
